@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Three JS**
 
-- 👯 I’m looking someone to participate on **Hackathon's**
+- 👯 I’m looking for someone to participate on **Hackathon's**
 
 - 💬 Ask me about **MERN Stack**
 
