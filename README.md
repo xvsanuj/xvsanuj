@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-<h1 align="center">Hi 👋, I'm Anuj Sharma</h1>
+<h1 align="center">Hi !👋, I'm Anuj Sharma, Nice To Meet You</h1>
 <h3 align="center">A passionate frontend developer from Hardoi, Uttar Pradesh</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif">
 
