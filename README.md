@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF2HkR-Pv5zqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730083559996?e=1735776000&v=beta&t=Rs31c4otGPo8gd4PSiSNexYCmQd_sIY8pekbnSXecmo)
 <h1 align="center">Hi 👋, I'm Anuj, Nice To Meet You</h1>
 <h3 align="center">A passionate MERN Stack developer from Hardoi, Uttar Pradesh</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif">
