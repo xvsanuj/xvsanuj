@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQF2HkR-Pv5zqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730083559996?e=1735776000&v=beta&t=Rs31c4otGPo8gd4PSiSNexYCmQd_sIY8pekbnSXecmo)
+![MasterHead](https://photos.fife.usercontent.google.com/pw/AP1GczN7240-OqUBxPB-JYXyjcEfn5coEcbnZACyq1W1u2wYsQi7arPnrsIw=w1668-h939-s-no-gm?authuser=0)
 <h1 align="center">Wassup Buddy ? I'm Anuj Sharma 👋</h1>
 <h3 align="center">JavaScript Ninja | BackEnd Maestro | FrontEnd Artist | Three.js Magician</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif">
